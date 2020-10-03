@@ -1,0 +1,4 @@
+export const sushi = '0xAc2673328Fc97a072643FC4fC523D7Bd22C3e823'
+export const sushiv2 = '0xAc2673328Fc97a072643FC4fC523D7Bd22C3e823'
+export const sushiAddress = '0xAc2673328Fc97a072643FC4fC523D7Bd22C3e823'
+export const masterChefAddress = '0x0D457d09A70763ce09c0B8c34556D020B93FBAB8'
